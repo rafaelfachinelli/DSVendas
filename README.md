@@ -79,7 +79,7 @@ $ yarn start
 
 ```
 
-> ⚠️ O servidor de desenvolvimento iniciará na porta:3000 - Acesse <http://localhost:3000>
+> ⚠️ O servidor de desenvolvimento iniciará na porta 3000 - Acesse <http://localhost:3000>
 
 ### :globe_with_meridians: **Backend**
 
@@ -111,7 +111,7 @@ $ yarn knex:migrate
 $ yarn start
 ```
 
-> ⚠️ O servidor iniciará na porta:8080 - Acesse <http://localhost:8080>
+> ⚠️ O servidor iniciará na porta 8080 - Acesse <http://localhost:8080>
 
 ---
 ## :hammer: **Tecnologias**
