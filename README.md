@@ -78,7 +78,7 @@ Entre na pasta [`frontend/`](frontend/) e execute os seguintes comandos no termi
 </details>
 
 <details>
-  <summary><i>with <b>npm</b></i></summary>
+  <summary><i>with <b>yarn</b></i></summary>
 
 ```bash
 # Instalar dependências
