@@ -11,9 +11,9 @@
 
 <p align="center">
  <a href="#movie_camera-demonstração">Demonstração</a> •
- <a href="#computer-sobre">Sobre</a> •
- <a href="#memo-roteiro">Roteiro</a> •
- <a href="#dvd-executar-o-projeto">Executar</a> •
+ <a href="#information_source-sobre">Sobre</a> •
+ <a href="#memo-tarefas">Tarefas</a> •
+ <a href="#dvd-executar">Executar</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#page_facing_up-licença">Licença</a>
@@ -33,12 +33,12 @@
 </p>
 
 ---
-## :computer: Sobre
+## :information_source: Sobre
 
 ...
 
 ---
-## :memo: **Roteiro**
+## :memo: **Tarefas**
 
 <div align="center">
 <details>
@@ -52,7 +52,9 @@
 </div>
 
 ---
-## :dvd: **Executar o Projeto**
+## :dvd: **Executar**
+
+Para executar esse projeto você precisa clonar ou [`baixar`](https://github.com/USUARIO/REPOSITORIO/archive/main.zip) este repositório, ter o Gerenciador de Pacotes do Node ([`NPM`](https://www.npmjs.com/get-npm)) ou o Gerenciador de Pacotes YARN ([`YARN`](https://yarnpkg.com/getting-started)) instalado.
 
 ### :globe_with_meridians: **WEB**
 
@@ -104,7 +106,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 |:globe_with_meridians: Frontend|:file_cabinet: Backend|
 |:---:|:---:|
-|||
+|[Exemplo](https://exemplo.com)|[Exemplo](https://exemplo.com)|
 
 </div>
 
