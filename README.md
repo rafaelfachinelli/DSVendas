@@ -35,7 +35,11 @@
 ---
 ## :information_source: Sobre
 
-...
+Este projeto foi desenvolvido em uma semana no evento Semana Spring React oferecido pela [`DevSuperior`](https://devsuperior.com.br) gratuitamente em 3 aulas com a carga horária de 16 horas.
+
+Utiliza React para navegação e componentização do frontend com apoio de bibliotecas para o design e criação de gráficos dinâmicos.
+
+O backend foi desenvolvido utilizando o [`Spring Tool Suite 4`](https://spring.io/tools) e o banco de dados H2 para desenvolvimento e o Postgres em produção.
 
 ---
 ## :memo: **Tarefas**
