@@ -54,21 +54,25 @@
 ---
 ## :dvd: **Executar o Projeto**
 
-### :desktop_computer: **WEB**
+### :globe_with_meridians: **WEB**
 
 Entre na pasta [`frontend/`](frontend/) e execute os seguintes comandos:
 
-_com **npm**_
+<details>
+  <summary><i>with <b>npm</b></i></summary>
+  
+  ```bash
+  # Instalar dependências
+  $ npm install
 
-```bash
-# Instalar dependências
-$ npm install
+  # Iniciar servidor de desenvolvimento
+  $ npm start
+  ```
+  
+</details>
 
-# Iniciar servidor de desenvolvimento
-$ npm start
-```
-
-_com **yarn**_
+<details>
+  <summary><i>with <b>npm</b></i></summary>
 
 ```bash
 # Instalar dependências
@@ -78,38 +82,16 @@ $ yarn
 $ yarn start
 
 ```
+
+</details>
 
 > ⚠️ O servidor de desenvolvimento iniciará na porta 3000 - Acesse <http://localhost:3000>
 
-### :globe_with_meridians: **Backend**
+### :file_cabinet: **Backend**
 
 Entre na pasta [`backend/`](backend/) e execute os seguintes comandos:
 
-_com **npm**_
 
-```bash
-# Instalar dependências
-$ npm install
-
-# Criar banco de dados
-$ npm knex:migrate
-
-# Iniciar servidor
-$ npm start
-```
-
-_com **yarn**_
-
-```bash
-# Instalar dependências
-$ yarn
-
-# Criar banco de dados
-$ yarn knex:migrate
-
-# Iniciar servidor de desenvolvimento
-$ yarn start
-```
 
 > ⚠️ O servidor iniciará na porta 8080 - Acesse <http://localhost:8080>
 
@@ -120,7 +102,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 <div align="center">
 
-|Frontend|Backend|
+|:globe_with_meridians: Frontend|:file_cabinet: Backend|
 |:---:|:---:|
 |||
 
