@@ -1,12 +1,12 @@
 <img alt="DSVendas" src="./.github/banner.svg">
 
 <p align="center"> 
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/DSVendas?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/DSVendas?style=for-the-badge">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/DSVendas?color=3498db&style=for-the-badge">
+  <img alt="Último Commit no Repositório" src="https://img.shields.io/github/last-commit/rafaelfachinelli/DSVendas?color=3498db&style=for-the-badge">
   <a href="https://github.com/rafaelfachinelli">
-    <img alt="Feito pelo Rafael Fachinelli" src="https://img.shields.io/badge/feito%20por-Rafael Fachinelli-%237519C1?style=for-the-badge">
+    <img alt="Desenvolvido por Rafael Fachinelli" src="https://img.shields.io/badge/Desenvolvedor-Rafael_Fachinelli-%3498db?color=3498db&style=for-the-badge">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/DSVendas?style=for-the-badge"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/DSVendas?color=3498db&style=for-the-badge"/>
 <p>
 
 <p align="center">
