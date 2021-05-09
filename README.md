@@ -50,7 +50,16 @@ O backend foi desenvolvido utilizando o [`Spring Tool Suite 4`](https://spring.i
 
 |Estado|Tarefa|
 |:---:|:---:|
-|:heavy_check_mark:|Estruturar página inicial|
+|:heavy_check_mark:|Criar projetos backend e frontend|
+|:heavy_check_mark:|Salvar os projeto no Github em monorepo|
+|:heavy_check_mark:|Montar o visual estático do frontend|
+|:heavy_check_mark:|Publicar o frontend no Netlify|
+|:heavy_check_mark:|Modelo de domínio|
+|:heavy_check_mark:|Estruturar o backend no padrão camadas|
+|:heavy_check_mark:|Consulta paginada de vendas|
+|:heavy_check_mark:|Consultas agrupadas para gráficos|
+|:heavy_check_mark:|Implantação na nuvem|
+|:heavy_check_mark:|Integrar backend e frontend|
 
 </details>
 </div>
