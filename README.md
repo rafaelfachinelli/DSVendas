@@ -58,11 +58,11 @@ O backend foi desenvolvido utilizando o [`Spring Tool Suite 4`](https://spring.i
 ---
 ## :dvd: **Executar**
 
-Para executar esse projeto você precisa clonar ou [`baixar`](https://github.com/USUARIO/REPOSITORIO/archive/main.zip) este repositório, ter o Gerenciador de Pacotes do Node ([`NPM`](https://www.npmjs.com/get-npm)) ou o Gerenciador de Pacotes YARN ([`YARN`](https://yarnpkg.com/getting-started)) instalado.
+Para executar esse projeto você precisa clonar ou [`baixar`](https://github.com/rafaelfachinelli/DSVendas/archive/main.zip) este repositório, ter o Gerenciador de Pacotes do Node ([`NPM`](https://www.npmjs.com/get-npm)) ou o Gerenciador de Pacotes YARN ([`YARN`](https://yarnpkg.com/getting-started)) instalado.
 
 ### :globe_with_meridians: **WEB**
 
-Entre na pasta [`frontend/`](frontend/) e execute os seguintes comandos:
+Entre na pasta [`frontend/`](frontend/) e execute os seguintes comandos no terminal:
 
 <details>
   <summary><i>with <b>npm</b></i></summary>
@@ -95,9 +95,7 @@ $ yarn start
 
 ### :file_cabinet: **Backend**
 
-Entre na pasta [`backend/`](backend/) e execute os seguintes comandos:
-
-
+Para o backend é recomendado utilizar o [`Spring Tool Suite 4`](https://spring.io/tools) selecionando a pasta [`backend/`](backend/) para adicionar ao workspace da IDE e startar a aplicação.
 
 > ⚠️ O servidor iniciará na porta 8080 - Acesse <http://localhost:8080>
 
