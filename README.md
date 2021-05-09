@@ -28,10 +28,7 @@
 
 <p align="center">
   <kbd>
-    <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./.github/demo-desk-study.gif">
-  </kbd>
-  <kbd>
-    <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./.github/demo-desk-give-classes.gif">
+    <img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Projeto" src=".github/previews/desktop_preview.gif">
   </kbd>
 </p>
 
