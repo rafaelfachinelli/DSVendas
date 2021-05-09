@@ -39,7 +39,7 @@ Este projeto foi desenvolvido em uma semana no evento Semana Spring React oferec
 
 Utiliza React para navegação e componentização do frontend com apoio de bibliotecas para o design e criação de gráficos dinâmicos.
 
-O backend foi desenvolvido utilizando o [`Spring Tool Suite 4`](https://spring.io/tools) e o banco de dados H2 para desenvolvimento e o Postgres em produção.
+O backend foi desenvolvido utilizando o [`Spring Tool Suite 4`](https://spring.io/tools), banco de dados H2 para desenvolvimento e o Postgres em produção.
 
 ---
 ## :memo: **Tarefas**
