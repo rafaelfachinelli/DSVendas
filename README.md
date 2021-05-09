@@ -60,7 +60,7 @@ O backend foi desenvolvido utilizando o [`Spring Tool Suite 4`](https://spring.i
 
 Para executar esse projeto você precisa clonar ou [`baixar`](https://github.com/rafaelfachinelli/DSVendas/archive/main.zip) este repositório, ter o Gerenciador de Pacotes do Node ([`NPM`](https://www.npmjs.com/get-npm)) ou o Gerenciador de Pacotes YARN ([`YARN`](https://yarnpkg.com/getting-started)) instalado.
 
-### :globe_with_meridians: **WEB**
+### :globe_with_meridians: **Frontend**
 
 Entre na pasta [`frontend/`](frontend/) e execute os seguintes comandos no terminal:
 
