@@ -1,4 +1,4 @@
-<img alt="Proffy" src="./.github/banner.png">
+<img alt="DSVendas" src="./.github/banner.svg">
 
 <p align="center"> 
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/DSVendas?style=for-the-badge">
