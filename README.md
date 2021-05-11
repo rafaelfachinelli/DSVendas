@@ -122,7 +122,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |[Typescript](https://www.typescriptlang.org)|[H2](https://exemplo.com)|
 |[date-fns](https://date-fns.org)|[Postgres](https://exemplo.com)|
 |[apexcharts](https://apexcharts.com)||
-|[axios](https://github.com/axios/axios)||
+|[axios](https://axios-http.com)||
 
 </div>
 
