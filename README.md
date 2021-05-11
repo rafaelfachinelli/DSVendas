@@ -117,12 +117,12 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 |:globe_with_meridians: Frontend|:file_cabinet: Backend|
 |:---:|:---:|
-|[React](https://exemplo.com)|[JAVA](https://exemplo.com)|
-|[Bootstrap 5.0](https://exemplo.com)|[Spring Boot](https://exemplo.com)|
-|[Typescript](https://exemplo.com)|[H2](https://exemplo.com)|
-|[date-fns](https://exemplo.com)|[Postgres](https://exemplo.com)|
-|[apexcharts](https://exemplo.com)||
-|[axios](https://exemplo.com)||
+|[React](https://reactjs.org)|[JAVA](https://exemplo.com)|
+|[Bootstrap 5.0](https://getbootstrap.com)|[Spring Boot](https://exemplo.com)|
+|[Typescript](https://www.typescriptlang.org)|[H2](https://exemplo.com)|
+|[date-fns](https://date-fns.org)|[Postgres](https://exemplo.com)|
+|[apexcharts](https://apexcharts.com)||
+|[axios](https://github.com/axios/axios)||
 
 </div>
 
