@@ -120,7 +120,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |[React](https://reactjs.org)|[JAVA](https://exemplo.com)|
 |[Bootstrap 5.0](https://getbootstrap.com)|[Spring Boot](https://spring.io/projects/spring-boot)|
 |[Typescript](https://www.typescriptlang.org)|[H2](https://exemplo.com)|
-|[date-fns](https://date-fns.org)|[Postgres](https://exemplo.com)|
+|[date-fns](https://date-fns.org)|[Postgres](https://www.postgresql.org)|
 |[apexcharts](https://apexcharts.com)||
 |[axios](https://axios-http.com)||
 
