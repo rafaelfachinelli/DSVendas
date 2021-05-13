@@ -118,7 +118,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |:globe_with_meridians: Frontend|:file_cabinet: Backend|
 |:---:|:---:|
 |[React](https://reactjs.org)|[JAVA](https://exemplo.com)|
-|[Bootstrap 5.0](https://getbootstrap.com)|[Spring Boot](https://exemplo.com)|
+|[Bootstrap 5.0](https://getbootstrap.com)|[Spring Boot](https://spring.io/projects/spring-boot)|
 |[Typescript](https://www.typescriptlang.org)|[H2](https://exemplo.com)|
 |[date-fns](https://date-fns.org)|[Postgres](https://exemplo.com)|
 |[apexcharts](https://apexcharts.com)||
